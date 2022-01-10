@@ -8,6 +8,6 @@ int main(){
 
     printf("You entered : ");
     puts(a);
-
+    
     return 0;
 }
